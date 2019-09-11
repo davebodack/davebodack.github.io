@@ -1,0 +1,52 @@
+body {
+	font-family: "Georgia", Serif;
+	background-color: lightgreen;
+}
+
+h1 {
+	text-align: center;
+	color: white;
+  	text-shadow: -1px -1px 0 #124726, 1px -1px 0 #124726, -1px 1px 0 #124726, 1px 1px 0 #124726;
+  	font-size: 45px;"
+}
+
+h2 {
+	color: #144025;
+}
+
+p {
+	color: #144025;
+}
+
+ul {
+	list-style-type: none;
+	margin-top: 15px;
+	margin-left: 2px;
+	padding: 0;
+	overflow: hidden;
+	background-color: #1c5c42;
+	position: fixed;
+	width: 98%;
+	border: 1px solid #e6d435;
+}
+
+li {
+	float: left;
+	font-size: 20px;
+}
+
+li a {
+	display: block;
+	color: white;
+  	text-align: center;
+  	padding: 14px 48px;
+  	text-decoration: none;
+}
+
+li a:hover {
+  background-color: #e6d435;
+  color: #1c5c42;
+}
+
+
+
