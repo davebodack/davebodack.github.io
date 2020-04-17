@@ -1,0 +1,504 @@
+{
+  "golfer": [
+    {
+      "name": "Tiger Woods",
+      "rating": "418.5",
+      "nationality": "A"
+    },
+    {
+      "name": "Jack Nicklaus",
+      "rating": "401.3",
+      "nationality": "A"
+    },
+    {
+      "name": "Sam Snead",
+      "rating": "236.5",
+      "nationality": "A"
+    },
+    {
+      "name": "Ben Hogan",
+      "rating": "217.4",
+      "nationality": "A"
+    },
+    {
+      "name": "Gary Player",
+      "rating": "204.7",
+      "nationality": "R"
+    },
+    {
+      "name": "Arnold Palmer",
+      "rating": "199.8",
+      "nationality": "A"
+    },
+    {
+      "name": "Walter Hagen",
+      "rating": "191.9",
+      "nationality": "A"
+    },
+    {
+      "name": "Phil Mickelson",
+      "rating": "190.6",
+      "nationality": "A"
+    },
+    {
+      "name": "Tom Watson",
+      "rating": "172.5",
+      "nationality": "A"
+    },
+    {
+      "name": "Bobby Jones",
+      "rating": "159.8",
+      "nationality": "A"
+    },
+    {
+      "name": "Seve Ballesteros",
+      "rating": "159.5",
+      "nationality": "E"
+    },
+    {
+      "name": "Byron Nelson",
+      "rating": "158.3",
+      "nationality": "A"
+    },
+    {
+      "name": "Ernie Els",
+      "rating": "158.1",
+      "nationality": "R"
+    },
+    {
+      "name": "Greg Norman",
+      "rating": "144.2",
+      "nationality": "R"
+    },
+    {
+      "name": "Gene Sarazen",
+      "rating": "131.8",
+      "nationality": ""
+    },
+    {
+      "name": "Nick Faldo",
+      "rating": "130.0",
+      "nationality": "E"
+    },
+    {
+      "name": "Lee Trevino",
+      "rating": "127.0",
+      "nationality": "A"
+    },
+    {
+      "name": "Billy Casper",
+      "rating": "125.4",
+      "nationality": "A"
+    },
+    {
+      "name": "Vijay Singh",
+      "rating": "122.4",
+      "nationality": "R"
+    },
+    {
+      "name": "Peter Thomson",
+      "rating": "117.0",
+      "nationality": "R"
+    },
+    {
+      "name": "Bobby Locke",
+      "rating": "113.2",
+      "nationality": "R"
+    },
+    {
+      "name": "Harry Vardon",
+      "rating": "108.9",
+      "nationality": "E"
+    },
+    {
+      "name": "Bernhard Langer",
+      "rating": "108.6",
+      "nationality": "E"
+    },
+    {
+      "name": "Rory McIlroy",
+      "rating": "105.7",
+      "nationality": "E"
+    },
+    {
+      "name": "Cary Middlecoff",
+      "rating": "100.7",
+      "nationality": "A"
+    },
+    {
+      "name": "Raymond Floyd",
+      "rating": "90.3",
+      "nationality": "A"
+    },
+    {
+      "name": "Nick Price",
+      "rating": "88.9",
+      "nationality": "R"
+    },
+    {
+      "name": "John Ball",
+      "rating": "84.7",
+      "nationality": "E"
+    },
+    {
+      "name": "Jimmy Demaret",
+      "rating": "81.8",
+      "nationality": "A"
+    },
+    {
+      "name": "John Henry Taylor",
+      "rating": "78.4",
+      "nationality": "E"
+    },
+    {
+      "name": "Sergio Garcia",
+      "rating": "77.9",
+      "nationality": "E"
+    },
+    {
+      "name": "Jim Barnes",
+      "rating": "76.6",
+      "nationality": "E"
+    },
+    {
+      "name": "Johnny Miller",
+      "rating": "76.5",
+      "nationality": "A"
+    },
+    {
+      "name": "Lloyd Mangrum",
+      "rating": "76.0",
+      "nationality": "A"
+    },
+    {
+      "name": "Leo Diegel",
+      "rating": "74.8",
+      "nationality": "A"
+    },
+    {
+      "name": "Jordan Spieth",
+      "rating": "74.5",
+      "nationality": "A"
+    },
+    {
+      "name": "Ben Crenshaw",
+      "rating": "74.5",
+      "nationality": "A"
+    },
+    {
+      "name": "Hale Irwin",
+      "rating": "73.6",
+      "nationality": "A"
+    },
+    {
+      "name": "Roberto de Vicenzo",
+      "rating": "73.5",
+      "nationality": "R"
+    },
+    {
+      "name": "Colin Montgomerie",
+      "rating": "72.9",
+      "nationality": "E"
+    },
+    {
+      "name": "Brooks Koepka",
+      "rating": "71.9",
+      "nationality": "A"
+    },
+    {
+      "name": "Lee Westwood",
+      "rating": "71.4",
+      "nationality": "E"
+    },
+    {
+      "name": "Payne Stewart",
+      "rating": "71.2",
+      "nationality": "A"
+    },
+    {
+      "name": "Jose Maria Olazabal",
+      "rating": "71.1",
+      "nationality": "E"
+    },
+    {
+      "name": "Jim Furyk",
+      "rating": "70.8",
+      "nationality": "A"
+    },
+    {
+      "name": "Dustin Johnson",
+      "rating": "70.7",
+      "nationality": "A"
+    },
+    {
+      "name": "Davis Love III",
+      "rating": "70.4",
+      "nationality": "A"
+    },
+    {
+      "name": "Gene Littler",
+      "rating": "69.8",
+      "nationality": "A"
+    },
+    {
+      "name": "James Braid",
+      "rating": "69.6",
+      "nationality": "E"
+    },
+    {
+      "name": "Padraig Harrington",
+      "rating": "69.3",
+      "nationality": "E"
+    },
+    {
+      "name": "Ian Woosnam",
+      "rating": "69.2",
+      "nationality": "E"
+    },
+    {
+      "name": "Lanny Wadkins",
+      "rating": "67.7",
+      "nationality": "A"
+    },
+    {
+      "name": "Retief Goosen",
+      "rating": "67.2",
+      "nationality": "R"
+    },
+    {
+      "name": "Horton Smith",
+      "rating": "67.0",
+      "nationality": "A"
+    },
+    {
+      "name": "Craig Wood",
+      "rating": "65.1",
+      "nationality": "A"
+    },
+    {
+      "name": "Adam Scott",
+      "rating": "64.2",
+      "nationality": "R"
+    },
+    {
+      "name": "Mark O'Meara",
+      "rating": "63.3",
+      "nationality": "A"
+    },
+    {
+      "name": "Tommy Armour",
+      "rating": "",
+      "nationality": "A"
+    },
+    {
+      "name": "Julius Boros",
+      "rating": "62.6",
+      "nationality": "A"
+    },
+    {
+      "name": "Justin Rose",
+      "rating": "62.5",
+      "nationality": "E"
+    },
+    {
+      "name": "Tom Kite",
+      "rating": "62.2",
+      "nationality": "A"
+    },
+    {
+      "name": "Fred Couples",
+      "rating": "61.6",
+      "nationality": "A"
+    },
+    {
+      "name": "Harold Hilton",
+      "rating": "61.4",
+      "nationality": "A"
+    },
+    {
+      "name": "Harry Cooper",
+      "rating": "61.0",
+      "nationality": "A"
+    },
+    {
+      "name": "Ralph Guldahl",
+      "rating": "60.3",
+      "nationality": "A"
+    },
+    {
+      "name": "Curtis Strange",
+      "rating": "59.3",
+      "nationality": "A"
+    },
+    {
+      "name": "Sandy Lyle",
+      "rating": "59.1",
+      "nationality": "E"
+    },
+    {
+      "name": "Paul Runyan",
+      "rating": "59.0",
+      "nationality": "A"
+    },
+    {
+      "name": "Tom Weiskopf",
+      "rating": "58.3",
+      "nationality": "A"
+    },
+    {
+      "name": "Henry Cotton",
+      "rating": "58.1",
+      "nationality": "E"
+    },
+    {
+      "name": "Hubert Green",
+      "rating": "57.0",
+      "nationality": "A"
+    },
+    {
+      "name": "Doug Ford",
+      "rating": "56.6",
+      "nationality": "A"
+    },
+    {
+      "name": "Henry Picard",
+      "rating": "55.2",
+      "nationality": "A"
+    },
+    {
+      "name": "Kel Nagle",
+      "rating": "55.1",
+      "nationality": "R"
+    },
+    {
+      "name": "Masashi Ozaki",
+      "rating": "55.0",
+      "nationality": "R"
+    },
+    {
+      "name": "Henrik Stenson",
+      "rating": "53.5",
+      "nationality": "E"
+    },
+    {
+      "name": "Denny Shute",
+      "rating": "52.8",
+      "nationality": "A"
+    },
+    {
+      "name": "Jason Day",
+      "rating": "52.7",
+      "nationality": "R"
+    },
+    {
+      "name": "Bubba Watson",
+      "rating": "52.3",
+      "nationality": "A"
+    },
+    {
+      "name": "Corey Pavin",
+      "rating": "52.2",
+      "nationality": "A"
+    },
+    {
+      "name": "Willie Anderson",
+      "rating": "51.3",
+      "nationality": "E"
+    },
+    {
+      "name": "Lawson Little",
+      "rating": "50.7",
+      "nationality": "A"
+    },
+    {
+      "name": "David Duval",
+      "rating": "49.8",
+      "nationality": "A"
+    },
+    {
+      "name": "Willie Park",
+      "rating": "49.7",
+      "nationality": "E"
+    },
+    {
+      "name": "Young Tom Morris",
+      "rating": "49.6",
+      "nationality": "E"
+    },
+    {
+      "name": "Larry Nelson",
+      "rating": "49.3",
+      "nationality": "A"
+    },
+    {
+      "name": "Jim Ferrier",
+      "rating": "49.1",
+      "nationality": "R"
+    },
+    {
+      "name": "Johnny Farrell",
+      "rating": "48.8",
+      "nationality": "A"
+    },
+    {
+      "name": "Jack Burke Jr.",
+      "rating": "47.8",
+      "nationality": "A"
+    },
+    {
+      "name": "Tony Jacklin",
+      "rating": "47.4",
+      "nationality": "E"
+    },
+    {
+      "name": "David Graham",
+      "rating": "47.3",
+      "nationality": "R"
+    },
+    {
+      "name": "Jerome Travers",
+      "rating": "47.2",
+      "nationality": "A"
+    },
+    {
+      "name": "Justin Leonard",
+      "rating": "46.2",
+      "nationality": "A"
+    },
+    {
+      "name": "Bob Charles",
+      "rating": "46.1",
+      "nationality": "R"
+    },
+    {
+      "name": "Jock Hutchison",
+      "rating": "45.8",
+      "nationality": "E"
+    },
+    {
+      "name": "Zach Johnson",
+      "rating": "45.3",
+      "nationality": "A"
+    },
+    {
+      "name": "Mark Calcavecchia",
+      "rating": "45.2",
+      "nationality": "A"
+    },
+    {
+      "name": "Doug Sanders",
+      "rating": "45.1",
+      "nationality": "A"
+    },
+    {
+      "name": "Martin Kaymer",
+      "rating": "44.4",
+      "nationality": "E"
+    },
+    {
+      "name": "Darren Clarke",
+      "rating": "43.9",
+      "nationality": "E"
+    }
+  ]
+}
